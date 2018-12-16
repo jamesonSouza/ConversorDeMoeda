@@ -1,6 +1,6 @@
 # conversor_moeda
 
-A new Flutter application.
+Aplicativo em Flutter - converso de moeda simples consumindo webservice Api .
 
 ## Getting Started
 
